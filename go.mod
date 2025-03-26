@@ -1,4 +1,4 @@
-module github.com/kopia/kopia
+module github.com/Justin0432/kopia
 
 go 1.23
 
